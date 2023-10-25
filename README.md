@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [A social media app](https://github.com/EmmyJay3877/socialmedia_app)
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmmyJay3877](https://github.com/EmmyJay3877)
 
-- 💬 Ask me about **Fastapi, postgreSQL, Nodejs and mongoDB**
+- 💬 Ask me about **Fastapi, postgreSQL, Nodejs, mongoDB and Docker**
 
 - 📫 How to reach me **adebayojuwonx@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xRzA60q0Q2DOQUCWP_6JW8WeCeRqAuH6/view?usp=sharing](https://drive.google.com/file/d/1xRzA60q0Q2DOQUCWP_6JW8WeCeRqAuH6/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1GHirUQx1dROQ-GPOMWCa3gXBKDffdK35WChMVve6iAo/edit?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
