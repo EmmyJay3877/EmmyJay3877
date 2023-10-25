@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adebayojuwonx@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GHirUQx1dROQ-GPOMWCa3gXBKDffdK35WChMVve6iAo/edit?usp=drivesdk)
+- 📄 My CV [https://drive.google.com/file/d/11F4qPq18f_kVr-rV7BPa-8HS_T-XQzmF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
