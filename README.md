@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juwon</h1>
-<h3 align="center">A backend developer from Nigeria.</h3>
+<h3 align="center">A backend developer.</h3>
 
 - 🔭 I’m currently working on [A social media app](https://github.com/EmmyJay3877/socialmedia_app)
 
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmmyJay3877](https://github.com/EmmyJay3877)
 
-- 💬 Ask me about **Fastapi, postgreSQL, Nodejs, mongoDB and Docker**
+- 💬 Ask me about **Fastapi, postgreSQL, Nodejs, mongoDB, Docker and C# **
 
 - 📫 How to reach me **adebayojuwonx@gmail.com**
 
-- 📄 My CV [https://docs.google.com/document/d/1GHirUQx1dROQ-GPOMWCa3gXBKDffdK35WChMVve6iAo/edit?usp=drivesdk)
+- 📄 My CV [https://docs.google.com/document/d/1GHirUQx1dROQ-GPOMWCa3gXBKDffdK35WChMVve6iAo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
